@@ -50,4 +50,12 @@ Ansible
 By using Python - what automation scripts you have created?
 Which Kubernetes are you currently using - Self-hosted or Cloud Provider like EKS?
 
+ADP
+
+1.Kubernates crashbackloopoff troubleshooting 
+2. How to resolve forbidden error in k8
+3. Ansible roles and use cases
+4. Docker cmd vs entry point 
+5. Linux commands-mostly used in day to day
+
 
